@@ -1,0 +1,3 @@
+[submodule "algorand-rust"]
+	path = algorand-rust
+	url = https://github.com/peitalin/algorand-rust.git
